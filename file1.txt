@@ -8,3 +8,4 @@ modifica da integrazione satispay
 riga n.8
 riga n.9
 riga n.10
+riga n.11 da repo locale
